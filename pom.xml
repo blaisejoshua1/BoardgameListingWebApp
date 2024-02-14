@@ -29,9 +29,9 @@
     <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
     <sonar.language>java</sonar.language>
 
-<sonar.host.url>http://your-sonarqube-server-url</sonar.host.url>
-    <sonar.projectKey>unique-project-key</sonar.projectKey>
-    <sonar.projectName>Your Project Name</sonar.projectName>
+<sonar.host.url>http://http://18.223.255.191:9000</sonar.host.url>
+    <sonar.projectKey>Devops-CICD</sonar.projectKey>
+    <sonar.projectName>Devops-CICD</sonar.projectName>
     <sonar.projectVersion>1.0</sonar.projectVersion>
 
 		
